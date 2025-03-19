@@ -1,2 +1,2 @@
-# remove-repeated-songs
-Remove the repeated song in a playlist in spotify
+# spotify-remove-repeated-songs
+Remove the repeated song in a playlist in spotify with AI.
