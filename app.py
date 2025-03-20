@@ -100,5 +100,3 @@ if "remove" in command:
     # Remove the ocurrences of the songs
     # If song appears 4 times, remove 3 ocurrences
     remove_repeated_songs_from_playlist(playlist_id, repeated_songs)
-
-
